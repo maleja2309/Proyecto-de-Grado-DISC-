@@ -1,3 +1,7 @@
+# Adapted from Professor Jose Rafael Toro Gomez's code. 
+# Author: María Alejandra Vargas Torres
+
+
 import psutil
 from utils import *
 from config import *
