@@ -1,3 +1,7 @@
+# Adapted from Professor Jose Rafael Toro Gomez's code. 
+# Author: María Alejandra Vargas Torres
+
+# Importar librerías 
 import numpy as np
 import pandas as pd
 from collections import ChainMap
