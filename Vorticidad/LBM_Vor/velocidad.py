@@ -1,3 +1,6 @@
+# Adapted from Professor Jose Rafael Toro Gomez's code. 
+# Author: María Alejandra Vargas Torres
+
 import numpy as np
 from config import *
 from utils import *
