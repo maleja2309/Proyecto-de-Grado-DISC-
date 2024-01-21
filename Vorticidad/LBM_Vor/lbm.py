@@ -1,3 +1,6 @@
+# Adapted from Professor Jose Rafael Toro Gomez's code. 
+# Author: María Alejandra Vargas Torres
+
 from config import c, Re, n_i, n_t, n_l, n_r, n_b, num_nodos, e_I, vorticidad, vel_values, g_k_t, g_k_l, g_k_r, g_k_b, g_k_c, g_k_c_eq, g_k_l_eq, g_k_b_eq, g_k_r_eq, g_k_t_eq, config_, p
 from utils import *
 from main import vorticidad
